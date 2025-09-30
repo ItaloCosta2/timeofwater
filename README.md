@@ -1,16 +1,16 @@
-# watertime
+💧 AguaApp
+<p align="center"> <img src="https://img.shields.io/badge/Flutter-3.0+-blue?logo=flutter" /> <img src="https://img.shields.io/badge/Dart-3.0+-blue?logo=dart" /> <img src="https://img.shields.io/badge/Platform-Android%20|%20iOS-green?logo=android" /> </p>
 
-A new Flutter project.
+Aplicativo simples em Flutter para ajudar no controle da ingestão diária de água.
+Defina sua meta, acompanhe o progresso em tempo real e registre cada copo com um clique.
 
-## Getting Started
+✨ Funcionalidades
 
-This project is a starting point for a Flutter application.
+✅ Definir meta de consumo (2000ml por padrão)
+✅ Barra de progresso com Material 3
+✅ Exibição de ingerido e quanto falta
+✅ Botões rápidos para adicionar consumo (+200ml, +300ml, +500ml, +750ml)
+✅ Layout responsivo e clean
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📸 Preview
+<p align="center"> <img src="https://via.placeholder.com/300x600.png?text=Preview+AguaApp" alt="Preview App" /> </p>
